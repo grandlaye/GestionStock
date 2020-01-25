@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="eclipselink (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/lib/eclipselink.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
